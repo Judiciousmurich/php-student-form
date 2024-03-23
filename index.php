@@ -6,7 +6,13 @@
     <title>Student Form</title>
 </head>
 <body bgcolor ="lime">
-<body>
-    
+    <center><img src="" alt=""></center>
+    <form method="post" action="ftwo.php"></form>
+    <fieldset>
+        <legend>REGISTRATION</legend>
+        <P>ENTER ADMNO:
+            <input type="text" size="50" name="sadmno">
+        </P>
+    </fieldset>
 </body>
 </html>
