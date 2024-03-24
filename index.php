@@ -13,6 +13,11 @@
         <P>ENTER ADMNO:
             <input type="text" size="50" name="sadmno">
         </P>
+</p>
+<p>
+    ENTER NAME :
+    <input type="text" size="50" name="sname">
+</p>
     </fieldset>
 </body>
 </html>
