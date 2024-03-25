@@ -1,7 +1,7 @@
 <?php
 $sadmno = $_POST['sadmno'];
 $sname = $_POST[ 'sname' ];
-$con = new mysqli("localhost", "", "kirinyaga");
+$con = new mysqli("localhost", "jMm@0000", "kirinyaga");
 if(!$con)
 {
     echo "COULD NOT CONNECT TO THE DATABASE";
