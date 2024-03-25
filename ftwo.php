@@ -7,4 +7,6 @@ if(!$con)
     echo "COULD NOT CONNECT TO THE DATABASE";
 }
 $sql = "INSERT INTO student VALUES('$sadmno', '$name')";
-$result = SCON-
+$result = $con->query($sql);
+echo "record successfully added";
+?>
