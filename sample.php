@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
 </head>
-<body>
+<body> 
 <form method="post" action="processor.php"> 
 <input type="submit" value="DISPLAY" /> 
-</form>
+</form> 
 </body>
+
 </html>
